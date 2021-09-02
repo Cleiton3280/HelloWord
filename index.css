@@ -1,14 +1,20 @@
 .container{background-color: rgba(183, 221, 243, 0.555);
 height: 80px;
 width: 30cm;
+
 }
 
 
 .box{
     background-color:blanchedalmond;
-    height: 60%;
+    height: 1,5cm;
     width: 15cm;
       
     
 }
 
+.tabela{background-color :blanchedalmond;
+height: 10cm;
+width: 5cm;
+position: fixed;
+}
