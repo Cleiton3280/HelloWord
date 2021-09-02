@@ -13,8 +13,10 @@ width: 30cm;
     
 }
 
-.tabela{background-color :blanchedalmond;
-height: 10cm;
-width: 5cm;
-position: fixed;
+.menu{background-color :blanchedalmond;
+height: 1,5cm;
+width: 10cm;
+
 }
+
+.rodape{position: bottom;}
